@@ -1,10 +1,13 @@
-Mi historia, este mi segundon intento aprendiendo git
+Mi historia, este mi segundo intento aprendiendo git
 
 
-Carlo R, estuadiante de 24 años. 
+Carlo R, estuadiante de 25 años. 
+
+Algunos cambios, importantes.
 
 hoy Hablaremos de nuestra proxima aventura.
 
 Este  es la continuacion de las clases, es el día dos y vamos a hacer cambios
 
 Este año, debo comezar a programar de todas maneras, vamos a ello.
+
